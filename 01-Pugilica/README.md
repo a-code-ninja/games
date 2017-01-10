@@ -8,7 +8,7 @@ The following are supplied:
 
 * One six sided die
 * Two fists (dice with a 1 in 3 chance)
-* 6 Stamina tokens
+* 8 Stamina tokens
 * 30 [playing cards](CARDS.md)
 
 ## Setup
