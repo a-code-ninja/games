@@ -9,9 +9,7 @@ The following are supplied:
 * One six sided die
 * Two fists (dice with a 1 in 3 chance)
 * 6 Stamina tokens
-* 26 attack cards
-* 3 dodge cards
-* 1 refreshment card
+* 30 [playing cards](CARDS.md)
 
 ## Setup
 
@@ -47,4 +45,3 @@ is decided.
 * If your opponent has no stamina left they are knocked out
 * Compliment you opponent on taking their lumps
 * End your turn
-
