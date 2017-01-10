@@ -14,7 +14,7 @@ The following are supplied:
 
 Set up the game as follows:
 
-* Give each player 3 stamina tokens
+* Give each player 4 stamina tokens
 * Shuffle all of the cards together
 * Deal 3 cards to each player
 
