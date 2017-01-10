@@ -6,7 +6,6 @@ A game of gentlemen! Pugilica pits two gentlemen against each other in a duel of
 
 The following are supplied:
 
-* One six sided die
 * Two fists (dice with a 1 in 3 chance)
 * 8 Stamina tokens
 * 30 [playing cards](CARDS.md)
@@ -40,8 +39,10 @@ is decided.
 
 * Taunt your opponent (optional) "Throw up thine fists sir, I mean to beat you!"
 * Roll both fist dice
-* For each fist with a glove showing play a 'land a blow' card from your hand
-* Follow the instructions on the card
-* If your opponent has no stamina left they are knocked out
+    * If you get no hits, your turn ends
+    * If you get one hit you can play a card requiring one hit
+    * If you get two hits you can play a card requiring two hits or two cards requiring one.
+* Follow the instructions on the cards you have played, resolving one hit cards before two hit cards.
+* If your opponent has no stamina left they are knocked out and the round is over.
 * Compliment you opponent on taking their lumps
 * End your turn

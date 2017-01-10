@@ -12,22 +12,22 @@ Dodge a blow your opponent has landed.
 
 Take a rest, your stamina is replenished.
 
-## Land a Blow
+## Land a Blow x26
 
 These make up the bulk of the deck, and allow a player to land a blow on
 their opponent.
 
 ### Uppercut x2
 
+**two hits**
+
 Land an uppercut on your opponent.
 
-Roll the probability die.
-
-* 6: Your opponent is knocked out
-* 5: You loose two stamina
-* 1-4: You loose one stamina
+Your opponent looses three stamina tokens.
 
 ### Quick Jab x4
+
+**one hit**
 
 Land a quick one-two on your opponent.
 
@@ -35,24 +35,23 @@ Your opponent looses one stamina token.
 
 ### Straight Right x4
 
+**two hits**
+
 Land a classic straight right on your opponent's jaw.
 
-Roll the probability die.
-
-* 3-6: Your opponent looses one stamina token
-* 1-2: You miss
+They loose two stamina tokens.
 
 ### Haymaker x4
 
+**two hits**
+
 Bring in the hay!
 
-Roll the probability die.
-
-* 4-6: Your opponent looses two stamina tokens
-* 2-3: Your opponent looses one stamina token
-* 1: You miss
+Roll one fist again, if you hit your opponent looses three stamina.
 
 ### Wild Lunge x4
+
+**two hits**
 
 Make a wild lunge at your opponent.
 
@@ -60,9 +59,15 @@ You loose one stamina token, your opponent looses two.
 
 ### Arm Lock x4
 
-Get your opponent in an arm lock, land another blow, or two.
+**one hit**
+
+Get your opponent in an arm lock.
+
+Take another hit, and roll a fist again to see if you can take a second.
 
 ### Swift Slap x4
+
+**one hit**
 
 The cheek! Slap your opponent squarely in the face.
 
