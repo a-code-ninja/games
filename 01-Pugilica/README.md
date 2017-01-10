@@ -8,7 +8,7 @@ The following are supplied:
 
 * Two fists (dice with a 1 in 3 chance)
 * 8 Stamina tokens
-* 30 [playing cards](CARDS.md)
+* 32 [playing cards](CARDS.md)
 
 ## Setup
 

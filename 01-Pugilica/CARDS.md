@@ -1,14 +1,16 @@
 # Cards of the Game
 
-The game has a deck of 30 cards: 26 blows, 3 dodges, and 1 respite cards.
+The game has a deck of 32 cards: 26 blows, 4 dodges, and 2 respite cards.
 
-## Dodge x3
+## Dodge x4
 
 Play at any time.
 
 Dodge a blow your opponent has landed.
 
-## Respite x1
+## Respite x2
+
+Play at any time.
 
 Take a rest, your stamina is replenished.
 
