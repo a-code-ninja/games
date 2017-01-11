@@ -25,7 +25,7 @@ their opponent.
 
 Land an uppercut on your opponent.
 
-Your opponent looses three stamina tokens.
+Your opponent looses three stamina tokens, but you must skip your next turn.
 
 ### Quick Jab x4
 
