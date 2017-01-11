@@ -53,7 +53,7 @@ Roll one fist again, if you hit your opponent looses three stamina.
 
 ### Wild Lunge x4
 
-**two hits**
+**one hit**
 
 Make a wild lunge at your opponent.
 
