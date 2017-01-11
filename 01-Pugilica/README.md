@@ -2,6 +2,8 @@
 
 A game of gentlemen! Pugilica pits two gentlemen against each other in a duel of epic proportions.
 
+For a list of issues please see [here](ISSUES.md)
+
 ## Contents
 
 The following are supplied:
